@@ -1,4 +1,4 @@
-# movie_app
+# Shashty_app
 
 A new Flutter project.
 
